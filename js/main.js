@@ -5,6 +5,6 @@ console.log(edad);
 sumar();
 
 function sumar(){
+    let edad=19;
     console.log(edad);
-    edad=19;
 }
