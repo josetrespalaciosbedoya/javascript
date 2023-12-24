@@ -19,3 +19,6 @@ function sumar() {
 }
 
 sumar();
+
+var jab=null;
+console.log(jab);
