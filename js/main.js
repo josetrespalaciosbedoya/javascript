@@ -22,3 +22,9 @@ sumar();
 
 var jab=null;
 console.log(jab);
+
+let nombre = 'Jab';
+const canal = 'HTML6';
+let mensaje = `Me llamo ${nombre}`;
+
+console.log(mensaje);
