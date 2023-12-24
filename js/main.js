@@ -12,3 +12,10 @@ function sumar(){
 let a = "6";
 
 console.log(typeof(a));
+
+function sumar() {
+    let f = 4;
+    console.log(f);
+}
+
+sumar();
