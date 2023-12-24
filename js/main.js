@@ -8,3 +8,7 @@ function sumar(){
     let edad=19;
     console.log(edad);
 }
+
+let a = "6";
+
+console.log(typeof(a));
