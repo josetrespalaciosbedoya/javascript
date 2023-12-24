@@ -25,6 +25,8 @@ console.log(jab);
 
 let nombre = 'Jab';
 const canal = 'HTML6';
-let mensaje = `Me llamo ${nombre}`;
+let fecha = new Date;
+let numero = 4;
+let mensaje = `Me llamo ${nombre} y mi canal es ${canal} y estamos en el año ${fecha.getFullYear()} y después del número ${numero} viene el número ${++numero}.`;
 
 console.log(mensaje);
