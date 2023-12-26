@@ -25,12 +25,20 @@ console.log(jab);
 
 let nombre = 'Jab';
 const canal = 'HTML6';
-let fecha = new Date;
+let fecha = new Date();
 let numero = 4;
+let euros = 100;
 let mensaje = `
     Me llamo ${nombre} y mi canal es ${canal} 
     y estamos en el año ${fecha.getFullYear()} y 
-    después del número ${numero} viene el número ${++numero}.
+    después del número ${numero} viene el número ${++numero}
+    y el valor de ${euros} equivalen a ${convertir(euros)}.
 `;
 
+
 console.log(mensaje);
+
+function convertir(a) {
+    let resultado = a * 22.23;
+    return resultado;
+}
