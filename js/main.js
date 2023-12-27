@@ -42,3 +42,12 @@ function convertir(a) {
     let resultado = a * 22.23;
     return resultado;
 }
+
+sumar(1);
+
+function sumar (num){
+    let sum = 4;
+    let resultado = num + sum;
+
+    console.log(resultado);
+}
