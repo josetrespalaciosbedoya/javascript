@@ -70,3 +70,8 @@ let s = "5";
 
 console.log(c===s);
 console.log(c!=s);
+
+let nota = 5;
+let parcial = (nota<5) ? "Suspendido" : "Aprobaste";
+
+console.log(parcial);
