@@ -64,3 +64,9 @@ let valorSumado = 6;
 let incremento = ++valorSumado;
 
 console.log(incremento);
+
+let c = 65;
+let s = "5";
+
+console.log(c===s);
+console.log(c!=s);
