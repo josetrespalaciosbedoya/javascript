@@ -58,3 +58,9 @@ let numeroU = 4;
 let result = numeroS + numeroU;
 
 console.log(typeof(result));
+
+let valorSumado = 6;
+
+let incremento = ++valorSumado;
+
+console.log(incremento);
