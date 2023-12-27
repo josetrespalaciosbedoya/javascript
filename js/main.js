@@ -51,3 +51,10 @@ function sumar (num){
 
     console.log(resultado);
 }
+
+let numeroS = "6";
+let numeroU = 4;
+
+let result = numeroS + numeroU;
+
+console.log(typeof(result));
