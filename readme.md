@@ -74,7 +74,7 @@
 
 1. Clona este repositorio:
     ```sh
-    git clone https://github.com/tu-usuario/tu-repo.git
+    git clone https://github.com/josetrespalaciosbedoya/javascript.git
     ```
 2. Navega al directorio del proyecto:
     ```sh
