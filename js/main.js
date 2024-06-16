@@ -75,3 +75,5 @@ let nota = 5;
 let parcial = (nota<5) ? "Suspendido" : "Aprobaste";
 
 console.log(parcial);
+
+console.log("Bienvenido a Aprendiendo JavaScript");
