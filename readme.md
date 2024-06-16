@@ -78,7 +78,7 @@
     ```
 2. Navega al directorio del proyecto:
     ```sh
-    cd tu-repo
+    cd javascript
     ```
 3. Explora los diferentes directorios y archivos para cada tema.
 
